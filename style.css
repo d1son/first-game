@@ -1,3 +1,14 @@
-.row {
-	border-color: black;
+.thumbnail {
+	width:125px;
 }
+
+h1 {
+	text-align: center;
+}	
+
+.container {
+	background-color: black;
+
+}
+
+
