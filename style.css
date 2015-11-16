@@ -20,4 +20,21 @@ header {
 
 .panel-heading {
 	text-align: center;
+	
+}
+
+.panel-title {
+	margin-top: 10px;
+}
+
+.row {
+	margin-bottom: 3px;
+}
+
+p {
+	font-size: 20px;
+}
+
+#clickCount {
+	font-size: 25px;
 }
