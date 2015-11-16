@@ -3,6 +3,9 @@ h1 {
 	font-family: monospace;
 }	
 
+h3 {
+	font-size: 30px;
+}
 
 img {
 	width:125px;
@@ -10,7 +13,8 @@ img {
 
 
 header {
-	background-color: darkgray;
+	background-color: black;
+	color: white;
 	margin-bottom: 35px
 }
 
